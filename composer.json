@@ -12,7 +12,7 @@
             "email": "xupeichun1989@yeah.net"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "beta",
     "autoload": {
         "files": [
             "src/helper/helper.php"
