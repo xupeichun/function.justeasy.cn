@@ -1,0 +1,21 @@
+{
+    "name": "justeasy.cn/function",
+    "description": "justeasy.cn \b functions list",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "xupeichun",
+            "email": "xupeichun1989@yeah.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "src/helper/helper.php"
+        ]
+    }
+}
